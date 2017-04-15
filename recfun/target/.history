@@ -1,0 +1,7 @@
+compile
+test
+sbt "submit blakewell@gmail.com NWwMEtuWTMUkXkxA"
+sbt compile
+compile
+test
+submit blakewell@gmail.com NWwMEtuWTMUkXkxA
